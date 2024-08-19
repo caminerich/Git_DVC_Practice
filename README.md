@@ -3,4 +3,4 @@
 #### Data Version Control 
 - https://dvc.org
 - DVC creates hash files to track version changes in large data files
-- Useful because GitHub limites individual filesize to ~100mb, unless you upgrade to GitHub large file storage
+- Useful because GitHub limits individual filesize to ~100mb, unless you upgrade to GitHub large file storage
